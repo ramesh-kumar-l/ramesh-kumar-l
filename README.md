@@ -2,20 +2,20 @@
 
 Staff Engineer, working on AI-native engineering infrastructure.
 
-The question I keep circling back to: how much context does an AI agent actually need before its decisions are something I'd trust? Not everything — just the minimum that makes a decision defensible.
+I keep coming back to one question: how much context does an AI agent need before I can trust its decisions? The answer is probably not everything. It is the minimum context that makes a decision defensible.
 
 ## What I work on
 
-- **Context** — compiling the minimum engineering evidence an agent needs before it acts
-- **Memory** — making that context persist instead of resetting every session
-- **Workflows** — reusable skills for structured engineering tasks, not one-off prompting
-- **Evaluation** — checking whether any of this is actually correct and improving, not just confident-sounding
+- **Context** : compiling the minimum engineering evidence an agent needs before it acts
+- **Memory** : making that context persist instead of resetting every session
+- **Workflows** : reusable skills for structured engineering tasks, not one-off prompting
+- **Evaluation** : checking whether any of this is actually correct and improving, not just confident-sounding
 
 ## Projects
 
-- **Engineering Context Compiler** — turns engineering evidence into usable context packages for coding agents
-- **Engineering Evaluation Platform** — evaluates AI-assisted engineering workflows and outcomes
-- **Agentic Engineering Skills Platform** — reusable engineering capabilities agents can call on
+- **Engineering Context Compiler** : turns engineering evidence into usable context packages for coding agents
+- **Engineering Evaluation Platform** : evaluates AI-assisted engineering workflows and outcomes
+- **Agentic Engineering Skills Platform** : reusable engineering capabilities agents can call on
 
 ## Currently into
 
