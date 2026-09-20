@@ -23,4 +23,4 @@ Engineering context & memory · agentic workflows · AI evaluation · developer 
 
 ---
 
-Most AI coding tools chase speed. I'm more interested in trust — can you hand off a task and actually believe the result, without re-checking everything yourself? That's a context problem and an evaluation problem, and I like building the infrastructure for both.
+Most AI coding tools chase speed. I'm more interested in trust i.e can you hand off a task and actually believe the result, without re-checking everything yourself? That's a context problem and an evaluation problem, and I like building the infrastructure for both.
