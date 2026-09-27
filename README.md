@@ -1,6 +1,6 @@
 # Ramesh Kumar L
 
-I spent about 14 years building Android and OEM platform software at Samsung, the kind of work where a bug ships to millions of devices and "it worked on my machine" means nothing.                                                                           That standard for correctness is the one I'm now trying to hold AI agents to.
+I spent about 14 years building Android and OEM platform software at Samsung, the kind of work where a bug ships to millions of devices and "it worked on my machine" means nothing.That standard for correctness is the one I'm now trying to hold AI agents to.
 I keep coming back to one question: how much context does an AI agent need before I can trust its decisions? The answer is probably not everything. It is the minimum context that makes a decision defensible.
 
 ## What I work on
